@@ -261,6 +261,7 @@ body {
   border: none;
   font-size: 16px;
   color: white;
+  padding: 0;
   border-radius: 5px;
   cursor: pointer;
   background-color: #6327fe;
